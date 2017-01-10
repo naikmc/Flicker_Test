@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_270e15446ac35992dc40a7a1b14ecb5e7e9f696c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_b3a2518e58c8ab9683f92e381397f1c6a1d64d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\appau\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_962540e6072d0432562d60100639f1a82ab61488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_b16da118fcaa79c9f0401ffbe6012ddefb4b4675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_25b7a56ad03f0e311019c9f6bb6559cd1b732a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_a0713cb5ca36937f1344bc419e6fa7fd2502a9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\appau\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_97158b554adb8d8e5e2ce13beeb922dded174172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_d44c52cb187d2cc2df0bb89fdbfba90395eb5158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\appau\.gradle\caches\modules-2\files-2.1\com.github.Raizlabs.DBFlow\dbflow-core\3.1.1\f205bcc63da15f536f333e1c82de622fdbb35956\dbflow-core-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f205bcc63da15f536f333e1c82de622fdbb35956">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\dbflow-core-3.1.1_2935d3d1c3a2d3e238c070d1f76f4d131add06eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_fd4bfaf79266af4f639f2532477cfc97fadba338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_3dd48ad10ad3fe3033f1479385156b1ab680e3c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4_d38e76b90793879a06f56359d43a8ef631b971e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4_2d2244c44148821a20ad9c28c0350e5f07936813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_d52f603d50c5c2e81495f46e52ce57a27fc634ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_052b3420a80ad0a0959d0aeb625f0d5795a1ad8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_aaa05c2105ec3fff7d433ec6737f65b0e404dda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cf5b4b5150663bf8cef20af3e9b28913894e8353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_dc65508ba8936fd5e772ff62f7101098d98f6cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.1.0\jars\libs\scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0492333dc94d7c11c933116e6ddee16a60594e98">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\scribe-codepath-0.0.3_4d5458bc0b9f01a2464e41d9bd8cc8ac50936719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_0eef3fd8e5c15a0da91650fb64eab4816da02af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bac2c6fd56dae63bf540102c8f12cfbf5802545f">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.codepath.libraries-android-oauth-handler-1.1.0_5758e0fb402801ddf4813b8254cf981f4eac8604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_4d1343a9879663006bda1e40e0628204e698ce05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0e636db4904ce8ed4c75d0fd6ad82ef7fa1182a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_e8d158f833e944207d465f1ddc97a5bfa839405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.1.0\jars\libs\codepath-utils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a948907bd42abbd2f5f18e66c50aa81e5d07791">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\codepath-utils_5f2fa39bb8774547bee7730d07e944fa1efda585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.1.0\jars\libs\codepath-utils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a948907bd42abbd2f5f18e66c50aa81e5d07791">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\codepath-utils_5171b4fae68a367641ba36c5583f0ef655c5055c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ebf13e7a22a325c8d4ccc9f9268b1c80c8dfca0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_c8741ca25deeba752d7537559aa5202e43e50147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_5fec804471a9e03dcb491790cfab8e1f1906b276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\appau\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_86dba11c48e12dc1207005a67889ceebf037e73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58342b97007b49e4a536bdd30b9c3928be81ae59">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.github.Raizlabs.DBFlow-dbflow-3.1.1_67bf116fe01b2f700643b83af9b8a46e2cb8c026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_3290fd8f9fcdb44a117e6013015862b138c75ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58342b97007b49e4a536bdd30b9c3928be81ae59">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.github.Raizlabs.DBFlow-dbflow-3.1.1_05e74794de40a4a5871c900b47bb9bf41b877094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_3efab17a81411c301eb24406e8ca6df13676b7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\MyStudy\Study_2\Flicker_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_1a41e9c25ce99ebf33995a8389184993b63f44d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.1.0\jars\libs\scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0492333dc94d7c11c933116e6ddee16a60594e98">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\scribe-codepath-0.0.3_7768bf4aa445e678d95074332f66cad949a9d865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_ee3f7fd99b9ef1f128097d2d30f136651d7ab45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_25627b2f96da84372633458d717e7a6548cd521c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_84e62ef473a204b727ee49f1383da310919dceaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e0f32258b4fa705757c81eff6640c491b7f33217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_8829253d8320c4df000893aec9752f0526442477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bac2c6fd56dae63bf540102c8f12cfbf5802545f">
+        <dex dex="C:\MyStudy\Study_2\android-oauth-flickr-demo\app\build\intermediates\pre-dexed\debug\com.codepath.libraries-android-oauth-handler-1.1.0_3f8b8d63bd611822ac45a2ceb68c19905d56f041.jar" />
+    </item>
+
+</items>

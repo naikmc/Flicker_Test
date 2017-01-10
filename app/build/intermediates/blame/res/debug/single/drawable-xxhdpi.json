@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyStudy\\Study_2\\android-oauth-flickr-demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\MyStudy\\Study_2\\android-oauth-flickr-demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\MyStudy\\Study_2\\Flicker_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\MyStudy\\Study_2\\Flicker_Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
